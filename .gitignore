@@ -1,6 +1,11 @@
 # compiled output
+node_modules
+/logs
 /dist
-/node_modules
+/.vs
+package-lock.json
+client/debug.log
+
 
 # Logs
 logs
